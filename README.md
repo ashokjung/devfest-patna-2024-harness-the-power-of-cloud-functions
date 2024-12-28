@@ -8,7 +8,7 @@ Cloud Architect, Google</br>
 [LinkedIn@ashokjung](https://www.linkedin.com/in/ashokjung/) | [Twitter@ashokjung](https://twitter.com/ashokjung)
 
 **Slide Deck:**
-- [Harnessing the Power of Cloud Functions]([https://cloud.google.com/functions/docs/concepts/overview](https://github.com/ashokjung/devfest-patna-2024-harness-the-power-of-cloud-functions/blob/main/Harnessing%20the%20Power%20of%20Cloud%20Functions.pdf))
+- [Harnessing the Power of Cloud Functions](https://github.com/ashokjung/devfest-patna-2024-harness-the-power-of-cloud-functions/blob/main/Harnessing%20the%20Power%20of%20Cloud%20Functions.pdf)
 
 
 **References:**
