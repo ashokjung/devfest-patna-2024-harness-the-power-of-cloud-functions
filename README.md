@@ -1,5 +1,4 @@
 # devfest-patna-2024-harness-the-power-of-cloud-functions
-# devfest-patna-2023-running-containerised-application-on-serverless
 Repository containing talk material used during Google DevFest Patna 2024 for the talk titled "Harnessing the Power of Cloud Functions".
 
 **Author:**</br>
